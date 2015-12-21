@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="dataSourceStorageLocal">
+    <data-source name="SQL Server - MelomanGuide@localhost" uuid="498aa1fc-9596-49be-8113-680cee87b0f2">
+      <secret-storage>master_key</secret-storage>
+      <user-name>sa</user-name>
+      <schema-pattern>MelomanGuide.*</schema-pattern>
+      <default-schemas>MelomanGuide.*</default-schemas>
+    </data-source>
+  </component>
+</project>
